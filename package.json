@@ -1,0 +1,17 @@
+{
+  "name": "taiwan-trainer",
+  "version": "1.0.0",
+  "description": "A Duolingo-style Mandarin learning app for travelers to Taiwan",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.2.0"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
